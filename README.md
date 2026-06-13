@@ -144,4 +144,4 @@ jupyter lab notebooks/Banking_EDA_Analysis.ipynb
 
 **Prince Kumar**
 - GitHub: [github.com/princek1711](https://github.com/princek1711)
-- LinkedIn: [linkedin.com/in/princekumar](https://linkedin.com/in/princekumar)
+- LinkedIn: [linkedin.com/in/princekumar](https://www.linkedin.com/in/prince-kumar-48446325a/)
